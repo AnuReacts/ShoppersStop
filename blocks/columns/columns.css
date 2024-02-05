@@ -32,7 +32,7 @@
   object-position: right;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 400px) {
   .columns > div {
     align-items: center;
     flex-direction: unset;
