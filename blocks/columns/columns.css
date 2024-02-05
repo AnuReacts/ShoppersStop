@@ -5,7 +5,7 @@
 .columns > div {
   display: flex;
   flex-direction: column;
-  height: 600px;
+  height: 500px;
   border-bottom: 1px solid gray;
 }
 
