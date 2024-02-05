@@ -29,7 +29,7 @@
   --focus: hsl(60deg 1% 43%);
   --input-background: #fff;
   --button-background-color: #000;
-  --button-text-color: #fff;
+  --button-text-color: #000;
   --button-border-radius: 5px;
   --button-padding: 5px 10px;
   --icon-visibility: none;
