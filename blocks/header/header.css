@@ -20,7 +20,7 @@ header .icon-cart::after {
   border-color: var(--highlight-background-color);
   top: 0.4px;
   right: 0;
-  background-color: var(--highlight-background-color);
+  background-color: blue;
   animation: 4s ease 0s infinite normal none running animation-1gv119l;
 }
 
